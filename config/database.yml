@@ -2,14 +2,14 @@
 development:
   adapter: mysql2
   encoding: utf8
-  database: smellpgh_dev
-  username: plaintext_username_here
-  password: plaintext_password_here
+  database: heroku_e2927a4c4f81c6c
+  username: b474241013c486
+  password: 6cd98647
 
 production:
   adapter: mysql2
   encoding: utf8
-  database: smellpgh_production
-  username: plaintext_username_here
-  password: plaintext_password_here
+  database: heroku_e2927a4c4f81c6c
+  username: b474241013c486
+  password: 6cd98647
 
